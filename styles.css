@@ -34,12 +34,6 @@ nav ul li a:hover {
   color: red;
 }
   
-ul {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 10px;
-}
-  
 iframe {
   width: 100%;
   height: 400px;
@@ -49,7 +43,6 @@ iframe {
 footer{
   background-color: #fdfeff;
   position: absolute;
-  display: block;
   width: 99.9%;
   color: black;
   border: 1px solid rgb(180, 7, 4); 
